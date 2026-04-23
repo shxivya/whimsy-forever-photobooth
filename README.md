@@ -1,0 +1,1 @@
+# whimsy-forever-photobooth
