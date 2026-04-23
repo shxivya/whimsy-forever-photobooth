@@ -95,7 +95,7 @@ function Hero({ onEnter, sounds }) {
         </h1>
 
         <p className="mx-auto mt-5 max-w-xl px-2 font-cormorant text-lg italic text-[#7b5b52] sm:text-2xl md:mt-6 md:text-3xl">
-          for girls who romanticize everything — a photobooth where digital memories wear analog hearts.
+          for souls who romanticize everything — a photobooth where digital memories wear analog hearts.
         </p>
 
         <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:mt-10 sm:flex-row sm:gap-4">
